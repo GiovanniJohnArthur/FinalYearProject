@@ -1,8 +1,8 @@
 # Giovanni Android Framework
 *Final Year Project, May 2024*  
 *Author: John S. Madaha*  
-*Email: [johnmadaha6@gmail.com](mailto:johnmadaha6@gmail.com)*  
-![Screenshot from 2024-10-24 13-02-14](https://github.com/user-attachments/assets/3c2f7cb7-fba4-4a1a-a82d-2253b7dd0720)
+
+![Screenshot from 2024-10-24 13-07-13](https://github.com/user-attachments/assets/e77c3397-93ee-4094-9639-321a1621e670)
 
 
 ## Overview
