@@ -36,7 +36,7 @@ Some of the primary actions available in the framework include:
 8. Restart the Giovanni Server.
 9. Pull files from the device.
 10. Shutdown the device.
-11. # etc......
+11. etc......
 
 Additional functionalities, such as **Bluetooth interaction**, **GPS spoofing**, **live log monitoring**, and **screen mirroring**, are still under development.
 
